@@ -19,6 +19,8 @@ This project is a copy of [Shap-E example](https://github.com/openai/shap-e/blob
 
 - Colab (google account)
 - Blender (optional)
+![cat_sample](https://github.com/0223juvet/shap-e_text_to_3d/assets/91817942/2636ce4e-7fee-4c05-9fb5-0c68f98bf38e)
+
 
 ## Usage
 
