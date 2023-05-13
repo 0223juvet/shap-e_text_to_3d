@@ -5,6 +5,8 @@ Demo of Shap-E text_to_3d
 
 ![cat_sample](https://github.com/0223juvet/shap-e_text_to_3d/assets/91817942/2636ce4e-7fee-4c05-9fb5-0c68f98bf38e)
 
+🐦:Please follow me for new updates https://twitter.com/AI_JUVET
+
 ## Table of Contents
 
 - [Overview](#overview)
