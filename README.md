@@ -36,6 +36,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions or bug reports, please use the following methods:
+For questions or bug reports, please use the following method:
 
 - GitHub Issues: [issues](https://github.com/0223juvet/shap-e_text_to_3d/issues)
