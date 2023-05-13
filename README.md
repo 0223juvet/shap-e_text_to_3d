@@ -26,9 +26,9 @@ This project is a copy of [Shap-E example](https://github.com/openai/shap-e/blob
 
 ## Screenshots
 
-Include screenshots or demo videos of the project here.
+![shape-e](https://github.com/0223juvet/shap-e_text_to_3d/assets/91817942/c5927871-f546-4e15-8cd8-5f00ac641918)
+![shape-e2](https://github.com/0223juvet/shap-e_text_to_3d/assets/91817942/9f778f70-eebc-49df-8c4b-559c63e3f87e)
 
-![Screenshot](image URL)
 
 ## License
 
